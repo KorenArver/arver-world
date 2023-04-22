@@ -1,8 +1,9 @@
+import { signika } from './fonts'
 import './globals.css'
 
 export const metadata = {
   title: 'Arver world',
-  description: 'A chill place about arousing topics',
+  description: 'A chill place about creative topics',
 }
 
 export default function RootLayout({
@@ -11,7 +12,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
+    <html lang="en" className={`${signika.variable} font-signikaNegative`}>
       <body>{children}</body>
     </html>
   )

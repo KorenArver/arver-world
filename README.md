@@ -11,7 +11,7 @@
   <h3 align="center">Arver world</h3>
 
   <p align="center">
-    A chill place about arousing topics
+    A chill place about creative topics
     <br />
     <a href="https://github.com/ArverWorld/arver-world"><strong>Explore the docs »</strong></a>
     <br />
@@ -65,6 +65,7 @@ This idea of this app is to gather all topics that I'm passionate about in one p
 
 - [Next.js](https://nextjs.org/)
 - [React](https://fr.reactjs.org/)
+- [Tailwindcss](https://tailwindcss.com/)
 - [ESLint](https://eslint.org/)
 
 ### Languages
