@@ -13,14 +13,14 @@
   <p align="center">
     A chill place about creative topics
     <br />
-    <a href="https://github.com/ArverWorld/arver-world"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/KorenArver/arver-world"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ArverWorld/arver-world">View Demo</a>
+    <a href="https://github.com/KorenArver/arver-world">View Demo</a>
     ·
-    <a href="https://github.com/ArverWorld/arver-world/issues">Report Bug</a>
+    <a href="https://github.com/KorenArver/arver-world/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ArverWorld/arver-world/issues">Request Feature</a>
+    <a href="https://github.com/KorenArver/arver-world/issues">Request Feature</a>
   </p>
 </div>
 
