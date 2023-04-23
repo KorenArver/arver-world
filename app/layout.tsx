@@ -1,3 +1,4 @@
+import { Analytics } from '@vercel/analytics/react'
 import { signika } from './fonts'
 import './globals.css'
 
@@ -14,6 +15,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${signika.variable} font-signikaNegative`}>
       <body>{children}</body>
+      <Analytics />
     </html>
   )
 }

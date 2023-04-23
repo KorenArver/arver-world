@@ -33,7 +33,8 @@
     <li>
       <a href="#libraries-and-technologies">Libraries and technologies</a>
       <ul>
-        <li><a href="#techs">Techs</a></li>
+        <li><a href="#development">Development</a></li>
+        <li><a href="#deployment">Deployment</a></li>
         <li><a href="#languages">Languages</a></li>
         <li><a href="#ide">IDE</a></li>
       </ul>
@@ -61,12 +62,17 @@ This idea of this app is to gather all topics that I'm passionate about in one p
 
 ## Libraries and technologies
 
-### Techs
+### Development
 
 - [Next.js](https://nextjs.org/)
 - [React](https://fr.reactjs.org/)
 - [Tailwindcss](https://tailwindcss.com/)
 - [ESLint](https://eslint.org/)
+
+### Deployment
+
+- [Vercel](https://vercel.com/)
+- [Vercel Analytics](https://vercel.com/analytics)
 
 ### Languages
 
