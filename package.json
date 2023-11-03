@@ -3,20 +3,21 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --turbo",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
     "typecheck": "tsc --noEmit",
     "prettier:check": "prettier --check \"**/*.{ts,tsx}\"",
     "prettier:write": "prettier --write \"**/*.{ts,tsx}\"",
-    "test": "npm run prettier:check && npm run lint && npm run typecheck"
+    "test": "npm run prettier:check && npm run typecheck && && npm run lint"
   },
   "dependencies": {
     "@mantine/core": "^7.1.7",
     "@mantine/hooks": "^7.1.7",
     "eslint-config-airbnb-typescript": "^17.1.0",
     "next": "14.0.1",
+    "next-intl": "^2.22.1",
     "react": "^18",
     "react-dom": "^18"
   },
