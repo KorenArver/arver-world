@@ -10,7 +10,7 @@
     "typecheck": "tsc --noEmit",
     "prettier:check": "prettier --check \"**/*.{ts,tsx}\"",
     "prettier:write": "prettier --write \"**/*.{ts,tsx}\"",
-    "test": "npm run prettier:check && npm run typecheck && && npm run lint"
+    "test": "npm run prettier:check && npm run typecheck && npm run lint"
   },
   "dependencies": {
     "@mantine/core": "^7.1.7",
