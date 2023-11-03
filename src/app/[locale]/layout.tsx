@@ -1,12 +1,10 @@
 import { SupportedLocale } from "@/i18n/configuration"
+import theme from "@/theme/theme"
 import { ColorSchemeScript, MantineProvider } from "@mantine/core"
 import "@mantine/core/styles.css"
 import type { Metadata } from "next"
 import { NextIntlClientProvider } from "next-intl"
-import { Inter } from "next/font/google"
 import { notFound } from "next/navigation"
-
-const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "Arver World",
@@ -40,9 +38,9 @@ export default async function RootLayout({
       <head>
         <ColorSchemeScript />
       </head>
-      <body className={inter.className}>
+      <body>
         <NextIntlClientProvider locale={params.locale} messages={translations}>
-          <MantineProvider defaultColorScheme="auto">
+          <MantineProvider theme={theme} defaultColorScheme="auto">
             {children}
           </MantineProvider>
         </NextIntlClientProvider>

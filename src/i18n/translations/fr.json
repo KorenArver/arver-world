@@ -1,5 +1,12 @@
 {
-  "Home": {
-    "title": "Bienvenue sur Arver World"
+  "HeroSection": {
+    "button": "Let's go !",
+    "title": "Bienvenue dans Arver World",
+    "description": "Un lieu tranquille autour de sujets créatifs"
+  },
+  "NotFoundTitle": {
+    "title": "Vous avez trouvé un endroit secret.",
+    "description": "La page que vous essayez d'ouvrir n'existe pas. Vous avez peut-être mal saisi l'adresse ou la page a été déplacée vers une autre URL. Si vous pensez qu'il s'agit d'une erreur, contactez le support.",
+    "button": "Ramenez-moi à la page d'accueil"
   }
 }

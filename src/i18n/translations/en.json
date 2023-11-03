@@ -1,5 +1,12 @@
 {
-  "Home": {
-    "title": "Welcome to Arver world"
+  "HeroSection": {
+    "button": "Let's go!",
+    "title": "Welcome to Arver World",
+    "description": "A chill place about creative topics"
+  },
+  "NotFoundTitle": {
+    "title": "You have found a secret place.",
+    "description": "The page you are trying to open does not exist. You may have mistyped the address, or the page has been moved to another URL. If you think this is an error contact support.",
+    "button": "Take me back to home page"
   }
 }

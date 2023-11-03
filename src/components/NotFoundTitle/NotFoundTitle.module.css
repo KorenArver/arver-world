@@ -1,0 +1,17 @@
+.root {
+  height: 100vh;
+}
+
+.stack {
+  height: 100%;
+}
+
+.title {
+  text-align: center;
+  font-weight: 900;
+  font-size: rem(32px);
+}
+
+.description {
+  max-width: rem(500px);
+}
