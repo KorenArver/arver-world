@@ -9,7 +9,7 @@ export default function HeroSection() {
   const t = useTranslations("HeroSection")
 
   return (
-    <Container className={classes.container}>
+    <Container size="lg" className={classes.container}>
       <Stack justify="center" align="center" gap="xl" className={classes.stack}>
         <Title className={classes.title}>{t("title")}</Title>
         <Text>{t("description")}</Text>
