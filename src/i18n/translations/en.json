@@ -1,8 +1,7 @@
 {
   "HeroSection": {
     "button": "Let's go!",
-    "title": "Welcome to Arver World",
-    "description": "A chill place about creative topics"
+    "title": "Welcome to Arver World"
   },
   "NotFoundTitle": {
     "title": "You have found a secret place.",
